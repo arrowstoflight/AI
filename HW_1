@@ -1,4 +1,0 @@
-def multiply_matrices():
-  print("Hello from a function")
-
-multiply_matrices()
